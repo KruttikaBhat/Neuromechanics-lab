@@ -1,0 +1,505 @@
+The mean and standard deviation of the 4 movement times are taken across all blocks in each day for each person irrespective of the word.
+
+
+Person 1:
+
+Day 1:
+Mean: mt1=0.8079 mt2=0.8941 mt3=0.8712 mt4=0.8011
+Standard Dev: mt1=0.4705 mt2=0.5114 mt3=0.5136 mt4=0.4983
+
+Day 2:
+Mean: mt1=0.6259 mt2=0.6860 mt3=0.6242 mt4=0.5922
+Standard Dev: mt1=0.2506 mt2=0.2780 mt3=0.3489 mt4=0.3101
+
+Day 3:
+Mean: mt1=0.5807 mt2=0.6388 mt3=0.5807 mt4=0.5543
+Standard Dev: mt1=0.2116 mt2=0.2360 mt3=0.2375 mt4=0.2254
+
+Day 4:
+Mean: mt1=0.4757 mt2=0.5864 mt3=0.5165 mt4=0.4328
+Standard Dev: mt1=0.1970 mt2=0.2747 mt3=0.2749 mt4=0.1671
+
+Day 5:
+Mean: mt1=0.4629 mt2=0.5611 mt3=0.4862 mt4=0.4307
+Standard Dev: mt1=0.1517 mt2=0.2018 mt3=0.2026 mt4=0.1639
+
+Day 6:
+Mean: mt1=0.4077 mt2=0.5212 mt3=0.4719 mt4=0.3818
+Standard Dev: mt1=0.1321 mt2=0.2269 mt3=0.2157 mt4=0.1415
+
+Day 7:
+Mean: mt1=0.4159 mt2=0.5462 mt3=0.5146 mt4=0.3897
+Standard Dev: mt1=0.1788 mt2=0.2699 mt3=0.2773 mt4=0.1577
+
+Day 8:
+Mean: mt1=0.3989 mt2=0.5327 mt3=0.4618 mt4=0.3848
+Standard Dev: mt1=0.1587 mt2=0.2704 mt3=0.2114 mt4=0.1646
+
+Day 9:
+Mean: mt1=0.3744 mt2=0.4952 mt3=0.4557 mt4=0.3566
+Standard Dev: mt1=0.1408 mt2=0.2277 mt3=0.2347 mt4=0.1540
+
+Day 10:
+Mean: mt1=0.3597 mt2=0.4603 mt3=0.4259 mt4=0.3247
+Standard Dev: mt1=0.1746 mt2=0.2204 mt3=0.2175 mt4=0.1249
+
+Day 11:
+Mean: mt1=0.3916 mt2=0.4802 mt3=0.4761 mt4=0.4217
+Standard Dev: mt1=0.2325 mt2=0.2600 mt3=0.2432 mt4=0.2959
+
+Day 12:
+Mean: mt1=0.3716 mt2=0.4771 mt3=0.4589 mt4=0.3688
+Standard Dev: mt1=0.1923 mt2=0.2538 mt3=0.2202 mt4=0.1845
+
+Day 13:
+Mean: mt1=0.3673 mt2=0.5069 mt3=0.4463 mt4=0.3878
+Standard Dev: mt1=0.1804 mt2=0.2454 mt3=0.2323 mt4=0.2026
+
+Day 14:
+Mean: mt1=0.3686 mt2=0.5104 mt3=0.4612 mt4=0.3535
+Standard Dev: mt1=0.1744 mt2=0.2707 mt3=0.2624 mt4=0.1629
+
+Day 15:
+Mean: mt1=0.3802 mt2=0.5064 mt3=0.4353 mt4=0.3664
+Standard Dev: mt1=0.1766 mt2=0.2352 mt3=0.1992 mt4=0.1370
+
+
+Person 2:
+
+Day 1:
+Mean: mt1=0.8631 mt2=0.8751 mt3=0.9067 mt4=0.8592
+Standard Dev: mt1=0.4357 mt2=0.4883 mt3=0.4886 mt4=0.4686
+
+Day 2:
+Mean: mt1=0.6350 mt2=0.6192 mt3=0.5846 mt4=0.5543
+Standard Dev: mt1=0.3310 mt2=0.3609 mt3=0.3533 mt4=0.2860
+
+Day 3:
+Mean: mt1=0.4297 mt2=0.4177 mt3=0.3829 mt4=0.3667
+Standard Dev: mt1=0.2106 mt2=0.2492 mt3=0.2331 mt4=0.1927
+
+Day 4:
+Mean: mt1=0.3834 mt2=0.3808 mt3=0.3458 mt4=0.3240
+Standard Dev: mt1=0.2039 mt2=0.2395 mt3=0.2002 mt4=0.1709
+
+Day 5:
+Mean: mt1=0.3512 mt2=0.3429 mt3=0.3039 mt4=0.2940
+Standard Dev: mt1=0.1748 mt2=0.1925 mt3=0.1417 mt4=0.1364
+
+Day 6:
+Mean: mt1=0.2968 mt2=0.2921 mt3=0.2760 mt4=0.2407
+Standard Dev: mt1=0.1493 mt2=0.1466 mt3=0.1535 mt4=0.1293
+
+Day 7:
+Mean: mt1=0.3062 mt2=0.3049 mt3=0.2821 mt4=0.2643
+Standard Dev: mt1=0.1346 mt2=0.1411 mt3=0.1266 mt4=0.1116
+
+Day 8:
+Mean: mt1=0.2944 mt2=0.2986 mt3=0.2727 mt4=0.2460
+Standard Dev: mt1=0.1353 mt2=0.1614 mt3=0.1469 mt4=0.1359
+
+Day 9:
+Mean: mt1=0.2695 mt2=0.2763 mt3=0.2368 mt4=0.2013
+Standard Dev: mt1=0.2012 mt2=0.2029 mt3=0.1487 mt4=0.1152
+
+Day 10:
+Mean: mt1=0.2495 mt2=0.2435 mt3=0.2171 mt4=0.1944
+Standard Dev: mt1=0.1302 mt2=0.1181 mt3=0.1282 mt4=0.0951
+
+Day 11:
+Mean: mt1=0.2297 mt2=0.2455 mt3=0.2048 mt4=0.1818
+Standard Dev: mt1=0.1203 mt2=0.1703 mt3=0.1285 mt4=0.0912
+
+Day 12:
+Mean: mt1=0.2515 mt2=0.2644 mt3=0.2379 mt4=0.2074
+Standard Dev: mt1=0.1294 mt2=0.1558 mt3=0.1829 mt4=0.1303
+
+Day 13:
+Mean: mt1=0.2323 mt2=0.2265 mt3=0.2040 mt4=0.1756
+Standard Dev: mt1=0.1222 mt2=0.1112 mt3=0.1144 mt4=0.0663
+
+Day 14:
+Mean: mt1=0.2513 mt2=0.2583 mt3=0.2191 mt4=0.2082
+Standard Dev: mt1=0.1204 mt2=0.1434 mt3=0.1004 mt4=0.0899
+
+Day 15:
+Mean: mt1=0.2435 mt2=0.2506 mt3=0.2256 mt4=0.1972
+Standard Dev: mt1=0.1382 mt2=0.1516 mt3=0.1538 mt4=0.0840
+
+
+Person 3:
+
+Day 1:
+Mean: mt1=0.9198 mt2=0.8355 mt3=0.8792 mt4=0.8753
+Standard Dev: mt1=0.4929 mt2=0.4558 mt3=0.5008 mt4=0.4485
+
+Day 2:
+Mean: mt1=0.6599 mt2=0.5728 mt3=0.5974 mt4=0.6268
+Standard Dev: mt1=0.3682 mt2=0.3382 mt3=0.3721 mt4=0.3643
+
+Day 3:
+Mean: mt1=0.5438 mt2=0.5154 mt3=0.5242 mt4=0.4894
+Standard Dev: mt1=0.3304 mt2=0.2808 mt3=0.3472 mt4=0.2884
+
+Day 4:
+Mean: mt1=0.4075 mt2=0.4310 mt3=0.4014 mt4=0.4166
+Standard Dev: mt1=0.2168 mt2=0.2501 mt3=0.2552 mt4=0.2623
+
+Day 5:
+Mean: mt1=0.4048 mt2=0.4030 mt3=0.3676 mt4=0.3804
+Standard Dev: mt1=0.2557 mt2=0.2360 mt3=0.2091 mt4=0.2087
+
+Day 6:
+Mean: mt1=0.3506 mt2=0.3491 mt3=0.3373 mt4=0.3245
+Standard Dev: mt1=0.1849 mt2=0.2048 mt3=0.2007 mt4=0.1539
+
+Day 7:
+Mean: mt1=0.3095 mt2=0.3353 mt3=0.2955 mt4=0.2776
+Standard Dev: mt1=0.1872 mt2=0.2149 mt3=0.1496 mt4=0.1595
+
+Day 8:
+Mean: mt1=0.3034 mt2=0.2867 mt3=0.2687 mt4=0.2634
+Standard Dev: mt1=0.1726 mt2=0.1410 mt3=0.1506 mt4=0.1758
+
+Day 9:
+Mean: mt1=0.2711 mt2=0.2852 mt3=0.2555 mt4=0.2380
+Standard Dev: mt1=0.1449 mt2=0.1703 mt3=0.1709 mt4=0.1472
+
+Day 10:
+Mean: mt1=0.2785 mt2=0.2650 mt3=0.2555 mt4=0.2271
+Standard Dev: mt1=0.1715 mt2=0.1412 mt3=0.1834 mt4=0.1334
+
+Day 11:
+Mean: mt1=0.2773 mt2=0.2642 mt3=0.2405 mt4=0.2128
+Standard Dev: mt1=0.2000 mt2=0.1722 mt3=0.1385 mt4=0.1318
+
+Day 12:
+Mean: mt1=0.2608 mt2=0.2533 mt3=0.2467 mt4=0.2121
+Standard Dev: mt1=0.1504 mt2=0.1619 mt3=0.1530 mt4=0.1181
+
+Day 13:
+Mean: mt1=0.2764 mt2=0.2622 mt3=0.2347 mt4=0.2133
+Standard Dev: mt1=0.1412 mt2=0.1523 mt3=0.1232 mt4=0.1174
+
+Day 14:
+Mean: mt1=0.2563 mt2=0.2741 mt3=0.2365 mt4=0.2069
+Standard Dev: mt1=0.1183 mt2=0.1850 mt3=0.1368 mt4=0.1050
+
+Day 15:
+Mean: mt1=0.2615 mt2=0.2624 mt3=0.2341 mt4=0.2162
+Standard Dev: mt1=0.1513 mt2=0.1438 mt3=0.1199 mt4=0.1227
+
+
+Person 4:
+
+Day 1:
+Mean: mt1=0.9645 mt2=0.9939 mt3=0.9086 mt4=0.6494
+Standard Dev: mt1=0.5863 mt2=0.5718 mt3=0.5634 mt4=0.4193
+
+Day 2:
+Mean: mt1=0.6571 mt2=0.7844 mt3=0.7109 mt4=0.5568
+Standard Dev: mt1=0.3885 mt2=0.4448 mt3=0.4109 mt4=0.4098
+
+Day 3:
+Mean: mt1=0.5869 mt2=0.7009 mt3=0.6506 mt4=0.4646
+Standard Dev: mt1=0.3530 mt2=0.4292 mt3=0.3917 mt4=0.2953
+
+Day 4:
+Mean: mt1=0.5021 mt2=0.6468 mt3=0.5631 mt4=0.3818
+Standard Dev: mt1=0.3439 mt2=0.4385 mt3=0.3369 mt4=0.2154
+
+Day 5:
+Mean: mt1=0.4993 mt2=0.6207 mt3=0.5553 mt4=0.3703
+Standard Dev: mt1=0.3407 mt2=0.3662 mt3=0.3589 mt4=0.2230
+
+Day 6:
+Mean: mt1=0.4156 mt2=0.5881 mt3=0.4763 mt4=0.3186
+Standard Dev: mt1=0.2736 mt2=0.3570 mt3=0.2763 mt4=0.2116
+
+Day 7:
+Mean: mt1=0.4394 mt2=0.5568 mt3=0.4514 mt4=0.2853
+Standard Dev: mt1=0.2902 mt2=0.3131 mt3=0.2646 mt4=0.1533
+
+Day 8:
+Mean: mt1=0.5471 mt2=0.6396 mt3=0.4792 mt4=0.3082
+Standard Dev: mt1=0.3577 mt2=0.3315 mt3=0.2743 mt4=0.1712
+
+Day 9:
+Mean: mt1=0.5107 mt2=0.6239 mt3=0.5253 mt4=0.3934
+Standard Dev: mt1=0.3037 mt2=0.3432 mt3=0.2853 mt4=0.2298
+
+Day 10:
+Mean: mt1=0.4235 mt2=0.5478 mt3=0.4427 mt4=0.3103
+Standard Dev: mt1=0.2504 mt2=0.2959 mt3=0.2531 mt4=0.1481
+
+Day 11:
+Mean: mt1=0.3799 mt2=0.4872 mt3=0.4196 mt4=0.2858
+Standard Dev: mt1=0.2383 mt2=0.2909 mt3=0.2600 mt4=0.1575
+
+Day 12:
+Mean: mt1=0.4084 mt2=0.5437 mt3=0.4303 mt4=0.2800
+Standard Dev: mt1=0.2780 mt2=0.2751 mt3=0.2278 mt4=0.1303
+
+Day 13:
+Mean: mt1=0.3865 mt2=0.5594 mt3=0.4380 mt4=0.3027
+Standard Dev: mt1=0.2272 mt2=0.2917 mt3=0.2365 mt4=0.1329
+
+Day 14:
+Mean: mt1=0.3682 mt2=0.5953 mt3=0.4466 mt4=0.2877
+Standard Dev: mt1=0.2075 mt2=0.3263 mt3=0.2297 mt4=0.1127
+
+Day 15:
+Mean: mt1=0.3958 mt2=0.6721 mt3=0.4851 mt4=0.3243
+Standard Dev: mt1=0.2182 mt2=0.3276 mt3=0.2870 mt4=0.1479
+
+
+Person 5:
+
+Day 1:
+Mean: mt1=0.9344 mt2=0.8445 mt3=0.8840 mt4=0.8421
+Standard Dev: mt1=0.5930 mt2=0.4851 mt3=0.5084 mt4=0.5332
+
+Day 2:
+Mean: mt1=0.6414 mt2=0.5740 mt3=0.5944 mt4=0.4932
+Standard Dev: mt1=0.4713 mt2=0.3618 mt3=0.3984 mt4=0.2695
+
+Day 3:
+Mean: mt1=0.6890 mt2=0.6455 mt3=0.6082 mt4=0.5052
+Standard Dev: mt1=0.4518 mt2=0.4319 mt3=0.3625 mt4=0.3038
+
+Day 4:
+Mean: mt1=0.5607 mt2=0.5085 mt3=0.4851 mt4=0.3982
+Standard Dev: mt1=0.4013 mt2=0.3659 mt3=0.3156 mt4=0.2546
+
+Day 5:
+Mean: mt1=0.5251 mt2=0.5592 mt3=0.5285 mt4=0.3964
+Standard Dev: mt1=0.3973 mt2=0.4057 mt3=0.3374 mt4=0.2608
+
+Day 6:
+Mean: mt1=0.5382 mt2=0.5672 mt3=0.5041 mt4=0.4012
+Standard Dev: mt1=0.3468 mt2=0.3826 mt3=0.3265 mt4=0.2571
+
+Day 7:
+Mean: mt1=0.5201 mt2=0.5642 mt3=0.4771 mt4=0.3701
+Standard Dev: mt1=0.3399 mt2=0.3887 mt3=0.3084 mt4=0.2502
+
+Day 8:
+Mean: mt1=0.4356 mt2=0.4448 mt3=0.4129 mt4=0.3297
+Standard Dev: mt1=0.3063 mt2=0.3619 mt3=0.3049 mt4=0.2411
+
+Day 9:
+Mean: mt1=0.4735 mt2=0.4684 mt3=0.4157 mt4=0.2999
+Standard Dev: mt1=0.3385 mt2=0.3672 mt3=0.3187 mt4=0.2035
+
+Day 10:
+Mean: mt1=0.4865 mt2=0.4684 mt3=0.4334 mt4=0.3135
+Standard Dev: mt1=0.3441 mt2=0.3626 mt3=0.3128 mt4=0.1994
+
+Day 11:
+Mean: mt1=0.4747 mt2=0.4720 mt3=0.4367 mt4=0.3156
+Standard Dev: mt1=0.2996 mt2=0.3431 mt3=0.2904 mt4=0.2048
+
+Day 12:
+Mean: mt1=0.4455 mt2=0.4533 mt3=0.4176 mt4=0.2970
+Standard Dev: mt1=0.2854 mt2=0.2952 mt3=0.2684 mt4=0.1730
+
+Day 13:
+Mean: mt1=0.4229 mt2=0.4411 mt3=0.3883 mt4=0.2863
+Standard Dev: mt1=0.2661 mt2=0.2821 mt3=0.2560 mt4=0.1575
+
+Day 14:
+Mean: mt1=0.4136 mt2=0.4193 mt3=0.3531 mt4=0.2853
+Standard Dev: mt1=0.2729 mt2=0.2829 mt3=0.2442 mt4=0.1729
+
+Day 15:
+Mean: mt1=0.3931 mt2=0.4105 mt3=0.3507 mt4=0.2647
+Standard Dev: mt1=0.2529 mt2=0.2867 mt3=0.2443 mt4=0.1645
+
+
+Person 6:
+
+Day 1:
+Mean: mt1=1.1224 mt2=0.9777 mt3=1.0188 mt4=0.9150
+Standard Dev: mt1=0.6257 mt2=0.5594 mt3=0.6119 mt4=0.6152
+
+Day 2:
+Mean: mt1=0.9157 mt2=0.8885 mt3=0.8681 mt4=0.7114
+Standard Dev: mt1=0.4968 mt2=0.4423 mt3=0.5452 mt4=0.4121
+
+Day 3:
+Mean: mt1=0.7854 mt2=0.7158 mt3=0.7697 mt4=0.6257
+Standard Dev: mt1=0.5115 mt2=0.3606 mt3=0.3399 mt4=0.3179
+
+Day 4:
+Mean: mt1=0.6528 mt2=0.6207 mt3=0.6422 mt4=0.5110
+Standard Dev: mt1=0.3478 mt2=0.3372 mt3=0.3915 mt4=0.2997
+
+Day 5:
+Mean: mt1=0.6005 mt2=0.6144 mt3=0.6068 mt4=0.5069
+Standard Dev: mt1=0.3727 mt2=0.3522 mt3=0.3560 mt4=0.3208
+
+Day 6:
+Mean: mt1=0.6200 mt2=0.5914 mt3=0.6177 mt4=0.4618
+Standard Dev: mt1=0.3126 mt2=0.3371 mt3=0.3484 mt4=0.2691
+
+Day 7:
+Mean: mt1=0.6062 mt2=0.5843 mt3=0.5406 mt4=0.4778
+Standard Dev: mt1=0.3384 mt2=0.3582 mt3=0.3214 mt4=0.4221
+
+Day 8:
+Mean: mt1=0.6081 mt2=0.5872 mt3=0.5763 mt4=0.4348
+Standard Dev: mt1=0.3114 mt2=0.3058 mt3=0.3062 mt4=0.2454
+
+Day 9:
+Mean: mt1=0.5127 mt2=0.5222 mt3=0.5045 mt4=0.3678
+Standard Dev: mt1=0.2750 mt2=0.2986 mt3=0.2886 mt4=0.1883
+
+Day 10:
+Mean: mt1=0.5336 mt2=0.5243 mt3=0.5145 mt4=0.3977
+Standard Dev: mt1=0.2999 mt2=0.2472 mt3=0.2578 mt4=0.2090
+
+Day 11:
+Mean: mt1=0.5049 mt2=0.4925 mt3=0.4714 mt4=0.3670
+Standard Dev: mt1=0.2454 mt2=0.2612 mt3=0.2442 mt4=0.2062
+
+Day 12:
+Mean: mt1=0.4915 mt2=0.5013 mt3=0.4701 mt4=0.3655
+Standard Dev: mt1=0.2337 mt2=0.2358 mt3=0.2402 mt4=0.2138
+
+Day 13:
+Mean: mt1=0.5312 mt2=0.4861 mt3=0.4650 mt4=0.3831
+Standard Dev: mt1=0.2906 mt2=0.2423 mt3=0.2499 mt4=0.2101
+
+Day 14:
+Mean: mt1=0.4493 mt2=0.4425 mt3=0.4237 mt4=0.3381
+Standard Dev: mt1=0.2290 mt2=0.2417 mt3=0.2201 mt4=0.1597
+
+Day 15:
+Mean: mt1=0.4388 mt2=0.4251 mt3=0.4243 mt4=0.3501
+Standard Dev: mt1=0.2286 mt2=0.2116 mt3=0.2266 mt4=0.1918
+
+
+Person 7:
+
+Day 1:
+Mean: mt1=0.7540 mt2=0.8433 mt3=0.7664 mt4=0.9575
+Standard Dev: mt1=0.4435 mt2=0.6093 mt3=0.4752 mt4=0.9354
+
+Day 2:
+Mean: mt1=0.7039 mt2=0.7218 mt3=0.6740 mt4=0.6819
+Standard Dev: mt1=0.4200 mt2=0.4994 mt3=0.3570 mt4=0.3665
+
+Day 3:
+Mean: mt1=0.6640 mt2=0.6637 mt3=0.6227 mt4=0.6244
+Standard Dev: mt1=0.3748 mt2=0.3562 mt3=0.3488 mt4=0.2737
+
+Day 4:
+Mean: mt1=0.5297 mt2=0.5617 mt3=0.5496 mt4=0.5451
+Standard Dev: mt1=0.3156 mt2=0.3408 mt3=0.3127 mt4=0.2632
+
+Day 5:
+Mean: mt1=0.4403 mt2=0.5170 mt3=0.5192 mt4=0.5126
+Standard Dev: mt1=0.1901 mt2=0.2455 mt3=0.2353 mt4=0.2154
+
+Day 6:
+Mean: mt1=0.4524 mt2=0.4653 mt3=0.4869 mt4=0.5383
+Standard Dev: mt1=0.2159 mt2=0.2355 mt3=0.2408 mt4=0.3148
+
+Day 7:
+Mean: mt1=0.4595 mt2=0.5065 mt3=0.5143 mt4=0.4701
+Standard Dev: mt1=0.3364 mt2=0.3093 mt3=0.2973 mt4=0.2598
+
+Day 8:
+Mean: mt1=0.4097 mt2=0.4212 mt3=0.4210 mt4=0.4303
+Standard Dev: mt1=0.3023 mt2=0.2588 mt3=0.2379 mt4=0.2363
+
+Day 9:
+Mean: mt1=0.3904 mt2=0.3875 mt3=0.3888 mt4=0.3964
+Standard Dev: mt1=0.2488 mt2=0.2364 mt3=0.2223 mt4=0.1983
+
+Day 10:
+Mean: mt1=0.3736 mt2=0.3839 mt3=0.3788 mt4=0.4615
+Standard Dev: mt1=0.2282 mt2=0.2634 mt3=0.2423 mt4=0.2776
+
+Day 11:
+Mean: mt1=0.3127 mt2=0.3351 mt3=0.3370 mt4=0.4134
+Standard Dev: mt1=0.1899 mt2=0.2377 mt3=0.2314 mt4=0.2793
+
+Day 12:
+Mean: mt1=0.2938 mt2=0.3046 mt3=0.2979 mt4=0.3659
+Standard Dev: mt1=0.1705 mt2=0.1898 mt3=0.1635 mt4=0.1843
+
+Day 13:
+Mean: mt1=0.2875 mt2=0.2896 mt3=0.3168 mt4=0.3559
+Standard Dev: mt1=0.1809 mt2=0.1866 mt3=0.2614 mt4=0.1914
+
+Day 14:
+Mean: mt1=0.2613 mt2=0.2580 mt3=0.2608 mt4=0.2837
+Standard Dev: mt1=0.1801 mt2=0.1776 mt3=0.1998 mt4=0.1640
+
+Day 15:
+Mean: mt1=0.2648 mt2=0.2954 mt3=0.2703 mt4=0.3321
+Standard Dev: mt1=0.1867 mt2=0.2149 mt3=0.1667 mt4=0.1948
+
+
+Person 8:
+
+Day 1:
+Mean: mt1=0.7183 mt2=0.6328 mt3=0.7151 mt4=0.6894
+Standard Dev: mt1=0.4837 mt2=0.4314 mt3=0.4220 mt4=0.3951
+
+Day 2:
+Mean: mt1=0.5851 mt2=0.5093 mt3=0.4985 mt4=0.5240
+Standard Dev: mt1=0.3208 mt2=0.3409 mt3=0.3155 mt4=0.3101
+
+Day 3:
+Mean: mt1=0.4148 mt2=0.4072 mt3=0.3807 mt4=0.3912
+Standard Dev: mt1=0.2258 mt2=0.2648 mt3=0.2032 mt4=0.2555
+
+Day 4:
+Mean: mt1=0.3537 mt2=0.3775 mt3=0.3571 mt4=0.3783
+Standard Dev: mt1=0.2299 mt2=0.3173 mt3=0.2776 mt4=0.3073
+
+Day 5:
+Mean: mt1=0.3622 mt2=0.3490 mt3=0.3389 mt4=0.3775
+Standard Dev: mt1=0.1952 mt2=0.1984 mt3=0.2040 mt4=0.2323
+
+Day 6:
+Mean: mt1=0.3753 mt2=0.3705 mt3=0.3546 mt4=0.3670
+Standard Dev: mt1=0.1885 mt2=0.2071 mt3=0.1861 mt4=0.1526
+
+Day 7:
+Mean: mt1=0.3553 mt2=0.3476 mt3=0.3436 mt4=0.3049
+Standard Dev: mt1=0.2707 mt2=0.2387 mt3=0.2116 mt4=0.1233
+
+Day 8:
+Mean: mt1=0.3129 mt2=0.3342 mt3=0.2935 mt4=0.2719
+Standard Dev: mt1=0.1653 mt2=0.2155 mt3=0.1356 mt4=0.1152
+
+Day 9:
+Mean: mt1=0.2957 mt2=0.2856 mt3=0.2768 mt4=0.2577
+Standard Dev: mt1=0.1931 mt2=0.1518 mt3=0.1581 mt4=0.1598
+
+Day 10:
+Mean: mt1=0.2710 mt2=0.2750 mt3=0.2611 mt4=0.2481
+Standard Dev: mt1=0.1491 mt2=0.1408 mt3=0.1349 mt4=0.1535
+
+Day 11:
+Mean: mt1=0.2497 mt2=0.2518 mt3=0.2352 mt4=0.2156
+Standard Dev: mt1=0.1184 mt2=0.1398 mt3=0.1365 mt4=0.1517
+
+Day 12:
+Mean: mt1=0.2565 mt2=0.2574 mt3=0.2468 mt4=0.2196
+Standard Dev: mt1=0.1256 mt2=0.1666 mt3=0.1461 mt4=0.1065
+
+Day 13:
+Mean: mt1=0.2355 mt2=0.2247 mt3=0.2130 mt4=0.1927
+Standard Dev: mt1=0.1340 mt2=0.1044 mt3=0.1358 mt4=0.1296
+
+Day 14:
+Mean: mt1=0.2343 mt2=0.2258 mt3=0.2080 mt4=0.1861
+Standard Dev: mt1=0.1142 mt2=0.1529 mt3=0.1399 mt4=0.1016
+
+Day 15:
+Mean: mt1=0.2228 mt2=0.2099 mt3=0.2000 mt4=0.1843
+Standard Dev: mt1=0.1253 mt2=0.0971 mt3=0.1436 mt4=0.1207
